@@ -1,8 +1,8 @@
-# Contributing to Speed Feed
+# Contributing to SpeedFeed
 
 🎉 First off, thanks for taking the time to contribute! 🎉  
 
-The following is a set of guidelines for contributing to Speed Feed. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request. 
+The following is a set of guidelines for contributing to SpeedFeed. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 Let's build open source software together!  
 
 ## Code of Conduct

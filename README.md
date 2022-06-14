@@ -44,6 +44,44 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Instructions on setting up your project locally.
+To get a local copy up and running follow these simple steps.
+
+### Requirements
+
+Things you need to use the software and how to install them. You've installed the latest versions of [Node.js][node-url] and [npm][npm-url].
+* npm
+
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+Instructions on installing and setting up SpeedFeed.
+
+1. Clone the repo
+
+   ```sh
+   git clone https://github.com/startrev/SpeedFeed.git
+   ```
+2. Install NPM packages
+
+   ```sh
+   npm install
+   ```
+3. Start your server
+
+   ```sh
+   npm start
+   ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -94,3 +132,5 @@ Project Link: [github.com/startrev/SpeedFeed][project-url]
 [issues-url]: https://github.com/startrev/SpeedFeed/issues
 [license-url]: ../main/LICENSE
 [contributing-url]: ../main/CONTRIBUTING.md
+[node-url]: https://nodejs.org
+[npm-url]: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm

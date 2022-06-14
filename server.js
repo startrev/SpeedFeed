@@ -3,16 +3,19 @@
 const server = require("browser-sync")
 
 server.init({
-    server: 'public',
-    watch: true,
-    open: true,
-    notify: false,
-    logLevel: 'debug',
-    logConnections: true,
-    logFileChanges: true,
-    // browser: [''],
-    port: 8000
-    // ui: {
-    //   port: 8080
-    // }
+  ui: false,
+  // files: ['public'],
+  server: 'public',
+  port: 8000,
+  logLevel: 'debug',
+  logPrefix: 'SpeedFeed',
+  logConnections: true,
+  logFileChanges: true,
+  // tunnel: 'SpeedFeed',
+  online: true,
+  open: true,
+  browser: 'default',
+  reloadOnRestart: true,
+  notify: false,
+  watch: true
 })
